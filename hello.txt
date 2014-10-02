@@ -1,1 +1,5 @@
-make a new branch and edit this file.
+<<<<<<< HEAD
+i don't merge because this file is conflict!
+=======
+i don't merge because this file is conflict!
+>>>>>>> master
